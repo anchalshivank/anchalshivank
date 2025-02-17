@@ -41,8 +41,7 @@ Experienced Rust developer specializing in asynchronous and concurrent programmi
 
 
 ### **Skills**  
-- **Languages and Frameworks**: Rust, Actix, Tokio, Python, Java  
-- **Technologies**: REST APIs, gRPC, OpenAPI, Protocol Buffers, WebAssembly (Wasm), Docker, Redis, Quic  
+- **Languages and Frameworks**: Rust, Actix, Tokio, Python, Java   
 - **Platforms and Tools**: Linux, Bash, Git, GitHub, DSA  
 
 
