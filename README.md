@@ -23,5 +23,4 @@ Rust · Tokio · Linux · Networking stacks · Systems programming · CI/CD · C
 
 📍 Gurgaon, India
 📧 [shivajay295@gmail.com](mailto:shivajay295@gmail.com)
-📞 +91 9667943369
 🔗 [LinkedIn](https://www.linkedin.com/in/shivankanchal)
